@@ -1,0 +1,5 @@
+# 网易云音乐 Agent 依赖
+langchain>=0.1.0
+langchain-deepseek>=0.1.0
+requests>=2.28.0
+python-dotenv>=1.0.0
